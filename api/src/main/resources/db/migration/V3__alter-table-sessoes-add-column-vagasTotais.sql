@@ -1,0 +1,1 @@
+alter table sessoes add vagas_totais INT NOT NULL;
